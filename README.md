@@ -1,8 +1,8 @@
-# two-five-live-embed
+# 25Live Simple Spud Embed for Sharepoint
 
 ## Summary
 
-- Simple Sharepoint Client Solution to embed a specific 25 Live spud
+- Simple Sharepoint Client Solution to embed a specific 25 Live spud, given no custom scripts allowed on the site in question
 
 - Written in such a way as to preserve formatting on the 25 Live client
 
