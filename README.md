@@ -2,8 +2,11 @@
 
 ## Summary
 
-Simple Sharepoint Client Solution to embed a specific 25 Live spud
-Written in such a way as to preserve formatting on the 25 Live client
+- Simple Sharepoint Client Solution to embed a specific 25 Live spud
+
+- Written in such a way as to preserve formatting on the 25 Live client
+
+- Uses [react-load-script](https://www.npmjs.com/package/react-load-script) for the on load callback
 
 ![The solution in action](example.PNG)
 
@@ -17,10 +20,6 @@ Written in such a way as to preserve formatting on the 25 Live client
 - [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
-
-## Prerequisites
-
-Uses [react-load-script](https://www.npmjs.com/package/react-load-script) for the on load callback
 
 ## Version history
 
